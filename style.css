@@ -53,7 +53,7 @@
 }
 .dd{
     background-image: url(WhatsApp\ Image\ 2023-12-15\ at\ 02.10.20_b201aaa2.jpg);
-    height: 550px;
+    height: 580px;
     border-radius: 0px 0px 1200px 1100px;
     background: linear-gradient(180deg, rgba(76, 201, 240, 0.00) 0%, rgba(67, 97, 238, 0.30) 100%);
 }
@@ -85,7 +85,7 @@
     width: 280px;
     height: 350px;
     border-radius: 12px;
-    margin-top: 80px;
+    margin-top: 120px;
 }
 .flix2{
      margin-top: 80px;
@@ -97,6 +97,11 @@
     margin-top: 20px;
     display: flex;
     justify-content: space-around;
+}
+.cccc{
+    margin-left: 25px;
+    border-bottom: 2px solid #3A0CA3;
+    padding: 0px 45px 0px 45px;
 }
 .aq11{
     margin-top: 30px;
@@ -120,4 +125,87 @@
     border: none;
     background:  #3A0CA3;   
 }
+.div6{
+    margin-top: 5px;
+    gap: 50px;
+    display: flex;
+}
+.div555{
+    margin-left: 250px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-radius: 50px;
+    background: var--White,(--White, #FFF);
+    box-shadow: 10px 30px 50px 0px rgba(0, 0, 0, 0.05);
+    width: 300px;
+    height: 90px;
+}
+.imgto{
+    margin-left: 80px;
+    height: 50px;
+    clip-path: circle();
+}
+.aw1{
+font-size:15px;
+}
+.aw2{
+    font-size:15px;
+}
+.div556{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-radius: 50px;
+    background: var--White,(--White, #FFF);
+    box-shadow: 10px 30px 50px 0px rgba(0, 0, 0, 0.05);
+    width: 300px;
+    height: 90px;
+}
+.imgto{
+    height: 50px;
+}
 
+.div5{
+    margin-top:120px ;
+   text-align: center;
+}
+
+
+.div7{
+    margin-top: 50px;
+   margin-left: 140px;
+    display: flex;
+    gap: 50px;
+}
+.dq1{
+    width: 120px;
+    height: 36.234px;
+    flex-shrink: 0;
+}
+.dq2{
+width: 120px;
+height: 36.234px;
+flex-shrink: 0;
+background-color: #c8bfbf;
+ color: #6e59a1;
+}
+.dq3{
+    width: 130px;
+    height: 36.234px;
+    flex-shrink: 0;
+    background-color: #31332e;
+     color: #cf8312;
+}
+.done{
+  
+    background-color: #000000;
+}
+.done3{
+    margin-left:50px ;
+}
+.done1{
+    background-color: #000000;
+    margin-right: 50px;
+    gap: 20px;
+}
